@@ -77,7 +77,7 @@ require 'template/header.php';
                                   <input type="file" id="photo" accept="image/*"  style="display: none;">
                                   <br>
                                   <label class="ca-nm" for="number">Номер машины:</label><br>
-                                  <input class="inp-num" type="text" placeholder="0000XX00" id="car-number" pattern="[0-9]{3,4}[A-Z,a-z]{2}[0-9]{2}" >
+                                  <input class="inp-num" type="text" placeholder="0000XX00" id="car-number" pattern="[0-9]{3,4}[A-Z]{2}[0-9]{2}" >
 
                                   <br>
                                   <label class="ca-nm" for="passport">Серия техпаспорта:</label><br>
