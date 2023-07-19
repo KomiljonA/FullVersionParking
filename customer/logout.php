@@ -1,7 +1,10 @@
 <?php
-// clear all the session variables and redirect to index
 session_start();
-session_unset();
-session_write_close();
-$url = "../index.php";
-header("Location: $url");
+
+// Удаление токена из сеансовой переменной
+unset($_SESSION['token']);
+
+// Перенаправление на страницу входа (например, login.php)
+header('Location: ../index.php');
+exit;
+?>

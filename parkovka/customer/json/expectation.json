@@ -1,0 +1,56 @@
+[
+  {
+    "address": "ул. Ленина, 1",
+    "amount": 50,
+    "car_number": "A123BC",
+    "datetime1": "2023-05-13 12:30",
+    "datetime2": "2023-05-13 15:30",
+    "datetime_stay": "2 часа",
+    "offcanvas_content": ""
+  },
+  {
+    "address": "ул. Пушкина, 2",
+    "amount": 100,
+    "car_number": "B456DE",
+    "datetime1": "2023-05-13 13:30",
+    "datetime2": "2023-05-13 15:30",
+    "datetime_stay": "2 часа",
+    "offcanvas_content": ""
+  },
+    {
+    "address": "ул. Пушкина, 2",
+    "amount": 100,
+    "car_number": "B456DE",
+    "datetime1": "2023-05-13 13:30",
+    "datetime2": "2023-05-13 15:30",
+    "datetime_stay": "2 часа",
+    "offcanvas_content": ""
+  },
+    {
+    "address": "ул. Пушкина, 2",    
+    "amount": 100,
+    "car_number": "B456DE",
+    "datetime1": "2023-05-13 13:30",
+    "datetime2": "2023-05-13 15:30",
+    "datetime_stay": "2 часа",
+    "offcanvas_content": ""
+  },
+    {
+    "address": "ул. Пушкина, 2",
+    "amount": 100,
+    "car_number": "B456DE",
+    "datetime1": "2023-05-13 13:30",
+    "datetime2": "2023-05-13 15:30",
+    "datetime_stay": "2 часа",
+    "offcanvas_content": ""
+  },
+  {
+    "address": "ул. Гагарина, 3",
+    "amount": 150,
+    "car_number": "C789FG",
+    "datetime1": "2023-05-13 14:30",
+    "datetime2": "2023-05-13 15:30",
+    "datetime_stay": "2 часа",
+    "offcanvas_content": ""
+  }
+]
